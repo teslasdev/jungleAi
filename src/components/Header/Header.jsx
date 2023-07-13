@@ -56,7 +56,7 @@ const Header = () => {
               <span>
                 <i class="ri-fire-fill"></i>
               </span>
-              Jungle King Ai 
+              JK Ai 
             </h2>
           </div>
 
